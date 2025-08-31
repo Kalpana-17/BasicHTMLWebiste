@@ -1,6 +1,6 @@
 # BasicHTMLWebsite
 
-This project is based on a **problem statement from [roadmap.sh](https://roadmap.sh/projects/single-page-cv)**.  
+This project is based on a **problem statement from [roadmap.sh](https://roadmap.sh/projects/basic-html-website)**.  
 A simple website with different sections of a website like header, footer, navigation, main content, sidebars etc. It's focus is more on understanding structure of HTML than styling the page with better layout views. It is lightweight, fast, and requires no external dependencies.
 
 ## 🚀 Features
@@ -17,11 +17,11 @@ In this project, you are required to create a simple HTML only website with mult
 - Add SEO meta tags to the website.
 
 ## 🌐 Live Demo
-[https://kalpana-17.github.io/]()
+[https://kalpana-17.github.io/BasicHTMLWebsite](https://kalpana-17.github.io/BasicHTMLWebiste/)
 
 ## ⚡ Deployment Instructions
 ### 1. Run Locally
-1. Clone the repository: bash: git clone https://github.com/Kalpana-17/HTMLWebsite.git.
+1. Clone the repository: bash: git clone https://github.com/Kalpana-17/HTMLWebsite.git
 2. Open index.html in your browser.
 
 ### 2. Deploy on GitHub Pages (Recommended ✅)
