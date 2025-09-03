@@ -4,7 +4,7 @@ This project is based on a **problem statement from [roadmap.sh](https://roadmap
 A simple website with different sections of a website like header, footer, navigation, main content, sidebars etc. It's focus is more on understanding structure of HTML than styling the page with better layout views. It is lightweight, fast, and requires no external dependencies.
 
 ## 🚀 Features
-In this project, you are required to create a simple HTML only website with multiple pages. The website should have following pages:
+In this project, a simple HTML only website is created with multiple pages. The website has the following pages:
 - Homepage
 - Projects
 - Articles
